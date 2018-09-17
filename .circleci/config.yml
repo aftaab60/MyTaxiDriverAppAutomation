@@ -33,5 +33,3 @@ jobs:
 
       - run: gradle dependencies
         
-      # run tests!
-      - run: gradle test
